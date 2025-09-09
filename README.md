@@ -42,7 +42,6 @@ npm install
 # Start the development server
 npm run dev
 ```
-Open http://localhost:5173 in your browser to see the app in action.
 ---
  # Future Improvements
 - Add multi-language support (Arabic, English, etc.).
